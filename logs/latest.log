@@ -1,0 +1,109 @@
+[14:59:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:59:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:59:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:59:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:59:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:59:36] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[14:59:36] [Server thread/INFO]: Loading properties
+[14:59:36] [Server thread/INFO]: Default game type: SURVIVAL
+[14:59:36] [Server thread/INFO]: Generating keypair
+[14:59:36] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at wd$2.run(SourceFile:110) [server.jar:?]
+[14:59:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:59:37] [Server thread/INFO]: Using default channel type
+[14:59:42] [Server thread/INFO]: Preparing level "world"
+[14:59:42] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:59:45] [Server thread/INFO]: Loaded 6 recipes
+[14:59:47] [Server thread/INFO]: Loaded 825 advancements
+[15:00:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:00:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:16] [Server thread/INFO]: Preparing spawn area: 35%
+[15:00:17] [Server thread/INFO]: Time elapsed: 5595 ms
+[15:00:17] [Server thread/INFO]: Done (35.412s)! For help, type "help"
+[15:00:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[15:01:00] [User Authenticator #1/INFO]: UUID of player herbertthezombie is b13b1d6c-8bce-431b-991c-7436b3c30c21
+[15:01:00] [Server thread/INFO]: herbertthezombie[/192.168.1.47:30077] logged in with entity id 101 at (733.299999974668, 64.0, -2135.342148010408)
+[15:01:00] [Server thread/INFO]: herbertthezombie joined the game
+[15:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[15:01:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7723ms or 154 ticks behind
+[15:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[15:10:32] [Server thread/WARN]: Horse (vehicle of herbertthezombie) moved too quickly! -2.7175656938071597,0.0,-10.160429232314073
+[15:10:32] [Server thread/WARN]: Horse (vehicle of herbertthezombie) moved too quickly! -2.870137288601768,0.0,-10.69303530392881
+[15:10:32] [Server thread/WARN]: Horse (vehicle of herbertthezombie) moved too quickly! -3.0227092870537717,0.0,-11.225641278195553
+[15:10:32] [Server thread/WARN]: Horse (vehicle of herbertthezombie) moved too quickly! -3.175281501494851,0.0,-11.758247200373262
+[15:10:32] [Server thread/WARN]: Horse (vehicle of herbertthezombie) moved too quickly! -3.3400821035103263,0.0,-12.287018494778977
+[15:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[15:12:29] [Server thread/WARN]: herbertthezombie moved too quickly! -10.113430712706645,-1.252203340253729,-0.20218121615243945
+[15:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7741ms or 154 ticks behind
+[15:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[15:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[15:14:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2457ms or 49 ticks behind
+[15:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
+[15:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[15:15:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[15:15:57] [User Authenticator #2/INFO]: UUID of player _Cheetahmoo_ is 5f23f964-41b6-4fc9-9942-14a20e47645c
+[15:15:57] [Server thread/INFO]: _Cheetahmoo_[/127.0.0.1:65401] logged in with entity id 3173 at (734.299999974668, 64.0000002, -2139.700000025332)
+[15:15:57] [Server thread/INFO]: _Cheetahmoo_ joined the game
+[15:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17470ms or 349 ticks behind
+[15:16:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[15:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[15:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[15:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15:48:49] [Server thread/INFO]: herbertthezombie lost connection: Disconnected
+[15:48:49] [Server thread/INFO]: herbertthezombie left the game
+[15:49:08] [Server thread/INFO]: _Cheetahmoo_ lost connection: Disconnected
+[15:49:08] [Server thread/INFO]: _Cheetahmoo_ left the game
+[15:53:41] [User Authenticator #3/INFO]: UUID of player _Cheetahmoo_ is 5f23f964-41b6-4fc9-9942-14a20e47645c
+[15:53:41] [Server thread/INFO]: _Cheetahmoo_[/127.0.0.1:50876] logged in with entity id 7980 at (649.6065057406923, 11.0, -2092.632560875275)
+[15:53:42] [Server thread/INFO]: _Cheetahmoo_ joined the game
+[15:53:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:00:11] [Server thread/INFO]: Villager axw['Fletcher'/8105, l='world', x=708.49, y=64.44, z=-2155.81] died, message: 'Fletcher went up in flames'
+[16:06:35] [Server thread/INFO]: Villager axw['Villager'/8113, l='world', x=727.93, y=63.00, z=-2155.07] died, message: 'Villager was slain by Zombie'
+[16:06:51] [Server thread/INFO]: Villager axw['Villager'/9593, l='world', x=730.22, y=63.00, z=-2145.22] died, message: 'Villager was slain by Zombie'
+[16:08:33] [Server thread/INFO]: _Cheetahmoo_ lost connection: Disconnected
+[16:08:33] [Server thread/INFO]: _Cheetahmoo_ left the game
+[16:11:56] [User Authenticator #4/INFO]: UUID of player _Cheetahmoo_ is 5f23f964-41b6-4fc9-9942-14a20e47645c
+[16:11:56] [Server thread/INFO]: _Cheetahmoo_[/127.0.0.1:51012] logged in with entity id 10837 at (722.8010391127619, 62.9375, -2147.4275794847076)
+[16:11:56] [Server thread/INFO]: _Cheetahmoo_ joined the game
+[16:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[16:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
+[16:15:10] [Server thread/INFO]: Villager axw['Leatherworker'/10870, l='world', x=709.27, y=64.44, z=-2155.75] died, message: 'Leatherworker went up in flames'
+[16:17:38] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/11949, l='world', x=735.17, y=63.00, z=-2163.13]
+[16:25:56] [Server thread/INFO]: Villager axw['Villager'/11299, l='world', x=730.22, y=63.75, z=-2144.10] died, message: 'Villager was slain by Zombie'
+[16:30:26] [Server thread/INFO]: _Cheetahmoo_ lost connection: Disconnected
+[16:30:26] [Server thread/INFO]: _Cheetahmoo_ left the game
+[21:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 63132ms or 1262 ticks behind
+[22:32:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 317139ms or 6342 ticks behind
+[22:38:58] [Server thread/INFO]: Stopping the server
+[22:38:58] [Server thread/INFO]: Stopping server
+[22:38:58] [Server thread/INFO]: Saving players
+[22:38:58] [Server thread/INFO]: Saving worlds
+[22:38:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:38:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:38:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:38:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:38:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:38:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:38:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
