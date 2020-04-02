@@ -548,6 +548,8 @@
       "minecraft:spider": "2020-03-23 09:29:45 -0400",
       "minecraft:creeper": "2020-03-23 09:30:35 -0400",
       "minecraft:slime": "2020-03-28 10:41:09 -0400",
+      "minecraft:evoker": "2020-04-02 12:37:53 -0400",
+      "minecraft:phantom": "2020-04-02 12:18:37 -0400",
       "minecraft:witch": "2020-03-28 18:26:30 -0400",
       "minecraft:silverfish": "2020-03-22 20:55:33 -0400",
       "minecraft:enderman": "2020-03-28 14:05:50 -0400",
@@ -1873,6 +1875,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-04-02 12:30:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-03-28 15:08:03 -0400"
@@ -2260,6 +2268,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2020-03-22 20:56:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-04-02 12:30:15 -0400"
     },
     "done": true
   },

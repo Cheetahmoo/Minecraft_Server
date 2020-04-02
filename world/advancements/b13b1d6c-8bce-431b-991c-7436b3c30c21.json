@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-04-02 11:32:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-03-28 10:11:40 -0400"
@@ -556,6 +562,7 @@
     "criteria": {
       "minecraft:pillager": "2020-03-28 18:20:32 -0400",
       "minecraft:skeleton": "2020-03-28 10:27:52 -0400",
+      "minecraft:ravager": "2020-04-02 12:33:11 -0400",
       "minecraft:vindicator": "2020-03-28 18:24:03 -0400",
       "minecraft:spider": "2020-03-28 10:40:03 -0400",
       "minecraft:creeper": "2020-03-28 11:23:17 -0400",
@@ -1533,6 +1540,7 @@
       "cooked_mutton": "2020-03-28 10:25:54 -0400",
       "cooked_beef": "2020-03-28 11:09:08 -0400",
       "apple": "2020-04-01 12:15:35 -0400",
+      "cooked_cod": "2020-04-02 12:40:57 -0400",
       "bread": "2020-03-28 16:00:42 -0400",
       "rotten_flesh": "2020-03-28 11:40:28 -0400",
       "cooked_chicken": "2020-03-29 19:22:46 -0400",
