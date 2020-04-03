@@ -548,6 +548,7 @@
       "minecraft:spider": "2020-03-23 09:29:45 -0400",
       "minecraft:creeper": "2020-03-23 09:30:35 -0400",
       "minecraft:slime": "2020-03-28 10:41:09 -0400",
+      "minecraft:phantom": "2020-04-02 16:09:06 -0400",
       "minecraft:witch": "2020-03-28 18:26:30 -0400",
       "minecraft:silverfish": "2020-03-22 20:55:33 -0400",
       "minecraft:enderman": "2020-03-28 14:05:50 -0400",
@@ -746,6 +747,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2020-03-28 11:13:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-04-02 20:14:08 -0400"
     },
     "done": true
   },
@@ -1471,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-04-02 19:55:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2020-04-01 16:27:30 -0400"
@@ -1696,6 +1709,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-03-22 20:58:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-04-02 19:55:22 -0400"
     },
     "done": true
   },
@@ -2122,6 +2141,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-03-28 13:55:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-04-02 19:58:30 -0400"
     },
     "done": true
   },
