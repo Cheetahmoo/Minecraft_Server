@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-03 11:09:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-03-22 20:47:18 -0400"
@@ -431,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2020-04-03 11:09:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2020-03-28 09:44:28 -0400"
@@ -561,6 +573,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-03-28 11:17:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-04-03 20:28:30 -0400"
     },
     "done": true
   },
@@ -765,6 +783,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2020-03-28 10:57:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-04-03 13:58:48 -0400"
     },
     "done": true
   },
@@ -1208,6 +1232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2020-04-03 11:07:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-03-31 16:16:58 -0400"
@@ -1521,11 +1551,13 @@
       "cooked_mutton": "2020-03-28 10:09:43 -0400",
       "sweet_berries": "2020-03-22 20:54:27 -0400",
       "cooked_beef": "2020-03-28 09:35:47 -0400",
+      "baked_potato": "2020-04-03 14:25:41 -0400",
       "apple": "2020-04-01 14:42:06 -0400",
       "potato": "2020-04-01 13:58:54 -0400",
       "pumpkin_pie": "2020-03-28 15:42:21 -0400",
       "bread": "2020-03-28 14:54:30 -0400",
       "rotten_flesh": "2020-03-23 09:28:26 -0400",
+      "cookie": "2020-04-03 13:52:47 -0400",
       "cooked_chicken": "2020-03-28 09:53:20 -0400",
       "rabbit_stew": "2020-04-01 16:27:30 -0400",
       "cooked_salmon": "2020-03-28 13:26:43 -0400",
@@ -1668,6 +1700,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-23 09:20:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-03 11:09:37 -0400"
     },
     "done": true
   },
@@ -1817,6 +1855,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-28 10:57:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-04-03 16:13:12 -0400"
     },
     "done": true
   },
@@ -1994,6 +2038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-03 14:33:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-03-22 20:48:56 -0400"
@@ -2021,6 +2071,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-03-28 10:12:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-03 11:09:37 -0400"
     },
     "done": true
   },
@@ -2276,6 +2332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-04-03 11:27:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-03-22 20:52:51 -0400"
@@ -2309,6 +2371,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-03-22 20:58:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-04-03 14:33:09 -0400"
     },
     "done": true
   },
