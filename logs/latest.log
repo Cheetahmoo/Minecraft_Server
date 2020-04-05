@@ -1,102 +1,68 @@
-[19:01:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:01:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:01:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:01:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:01:11] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[19:01:11] [Server thread/INFO]: Loading properties
-[19:01:11] [Server thread/INFO]: Default game type: SURVIVAL
-[19:01:11] [Server thread/INFO]: Generating keypair
-[19:01:11] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
-	at wd$2.run(SourceFile:110) [server.jar:?]
-[19:01:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:01:12] [Server thread/INFO]: Using default channel type
-[19:01:14] [Server thread/INFO]: Preparing level "world"
-[19:01:15] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:01:17] [Server thread/INFO]: Loaded 6 recipes
-[19:01:19] [Server thread/INFO]: Loaded 825 advancements
-[19:01:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:54] [Server thread/INFO]: Preparing spawn area: 0%
-[19:01:54] [Server thread/INFO]: Preparing spawn area: 11%
-[19:01:55] [Server thread/INFO]: Preparing spawn area: 83%
-[19:01:55] [Server thread/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:02:02] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[19:02:03] [Server-Worker-2/INFO]: Preparing spawn area: 92%
-[19:02:03] [Server-Worker-1/INFO]: Preparing spawn area: 92%
-[19:02:04] [Server-Worker-1/INFO]: Preparing spawn area: 92%
-[19:02:04] [Server-Worker-1/INFO]: Preparing spawn area: 92%
-[19:02:05] [Server-Worker-4/INFO]: Preparing spawn area: 94%
-[19:02:05] [Server-Worker-4/INFO]: Preparing spawn area: 97%
-[19:02:06] [Server thread/INFO]: Time elapsed: 17741 ms
-[19:02:06] [Server thread/INFO]: Done (51.141s)! For help, type "help"
-[19:02:14] [User Authenticator #1/INFO]: UUID of player _Cheetahmoo_ is 5f23f964-41b6-4fc9-9942-14a20e47645c
-[19:02:15] [Server thread/INFO]: _Cheetahmoo_[/127.0.0.1:64291] logged in with entity id 22 at (680.1729172596994, 70.0, -2139.5953975408574)
-[19:02:15] [Server thread/INFO]: _Cheetahmoo_ joined the game
-[19:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
-[19:02:26] [User Authenticator #2/INFO]: UUID of player herbertthezombie is b13b1d6c-8bce-431b-991c-7436b3c30c21
-[19:02:26] [Server thread/INFO]: herbertthezombie[/192.168.1.47:1786] logged in with entity id 336 at (693.5479037372997, 64.0, -2166.8507050636204)
-[19:02:26] [Server thread/INFO]: herbertthezombie joined the game
-[19:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15244ms or 304 ticks behind
-[19:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5202ms or 104 ticks behind
-[19:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4272ms or 85 ticks behind
-[19:07:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
-[19:09:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1285, l='world', x=734.07, y=63.00, z=-2155.47]
-[19:09:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1285, l='world', x=734.07, y=63.00, z=-2155.47]
-[19:26:32] [Server thread/INFO]: herbertthezombie lost connection: Disconnected
-[19:26:32] [Server thread/INFO]: herbertthezombie left the game
-[19:28:17] [Server thread/INFO]: [_Cheetahmoo_: Summoned new Bee]
-[19:28:18] [Server thread/INFO]: [_Cheetahmoo_: Summoned new Bee]
-[19:28:18] [Server thread/INFO]: [_Cheetahmoo_: Summoned new Bee]
-[19:28:19] [Server thread/INFO]: [_Cheetahmoo_: Summoned new Bee]
-[19:28:20] [Server thread/INFO]: [_Cheetahmoo_: Summoned new Bee]
-[19:29:07] [Server thread/INFO]: [_Cheetahmoo_: Stopping the server]
-[19:29:07] [Server thread/INFO]: Stopping server
-[19:29:07] [Server thread/INFO]: Saving players
-[19:29:07] [Server thread/INFO]: _Cheetahmoo_ lost connection: Server closed
-[19:29:07] [Server thread/INFO]: _Cheetahmoo_ left the game
-[19:29:07] [Server thread/INFO]: Saving worlds
-[19:29:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:29:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:29:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:29:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:29:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:29:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:29:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:29:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:29:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:24:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:24:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:24:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:24:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:24:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:24:35] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[14:24:35] [Server thread/INFO]: Loading properties
+[14:24:35] [Server thread/INFO]: Default game type: SURVIVAL
+[14:24:35] [Server thread/INFO]: Generating keypair
+[14:24:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:24:36] [Server thread/INFO]: Using default channel type
+[14:24:38] [Server thread/INFO]: Preparing level "world"
+[14:24:38] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:25:12] [Server thread/INFO]: Loaded 6 recipes
+[14:25:12] [Server thread/INFO]: Loaded 825 advancements
+[14:25:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:25:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:15] [Server thread/INFO]: Preparing spawn area: 83%
+[14:25:18] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[14:25:18] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[14:25:18] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[14:25:18] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[14:25:18] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[14:25:18] [Server thread/INFO]: Preparing spawn area: 83%
+[14:25:18] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[14:25:19] [Server-Worker-2/INFO]: Preparing spawn area: 92%
+[14:25:19] [Server-Worker-3/INFO]: Preparing spawn area: 92%
+[14:25:20] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[14:25:20] [Server-Worker-2/INFO]: Preparing spawn area: 96%
+[14:25:21] [Server thread/INFO]: Preparing spawn area: 99%
+[14:25:21] [Server thread/INFO]: Time elapsed: 8162 ms
+[14:25:21] [Server thread/INFO]: Done (43.107s)! For help, type "help"
+[14:30:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[14:32:10] [User Authenticator #1/INFO]: UUID of player herbertthezombie is b13b1d6c-8bce-431b-991c-7436b3c30c21
+[14:32:10] [Server thread/INFO]: herbertthezombie[/192.168.1.47:2352] logged in with entity id 22 at (714.4699693212654, 60.0, -2086.017336243343)
+[14:32:10] [Server thread/INFO]: herbertthezombie joined the game
+[14:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[14:33:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29340ms or 586 ticks behind
+[14:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24764ms or 495 ticks behind
+[14:34:19] [Server thread/INFO]: herbertthezombie lost connection: Disconnected
+[14:34:19] [Server thread/INFO]: herbertthezombie left the game
+[14:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25205ms or 504 ticks behind
+[14:34:31] [User Authenticator #2/INFO]: UUID of player herbertthezombie is b13b1d6c-8bce-431b-991c-7436b3c30c21
+[14:34:31] [Server thread/INFO]: herbertthezombie[/192.168.1.47:2365] logged in with entity id 510 at (702.360742571041, 52.0, -2090.699999988079)
+[14:34:31] [Server thread/INFO]: herbertthezombie joined the game
+[14:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3686ms or 73 ticks behind
+[14:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27484ms or 549 ticks behind
+[14:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24935ms or 498 ticks behind
+[14:36:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20144ms or 402 ticks behind
+[14:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20828ms or 416 ticks behind
+[14:37:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14336ms or 286 ticks behind
+[14:37:45] [Server thread/INFO]: herbertthezombie lost connection: Disconnected
+[14:37:45] [Server thread/INFO]: herbertthezombie left the game
+[14:38:13] [Server thread/INFO]: Stopping server
+[14:38:13] [Server thread/INFO]: Saving players
+[14:38:13] [Server thread/INFO]: Saving worlds
+[14:38:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[14:38:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:38:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[14:38:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:38:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[14:38:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:38:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:38:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:38:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
